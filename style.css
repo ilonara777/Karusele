@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.big{
+    width: 80%;
+    height: 500px;
+    margin: 20px auto;
+}
